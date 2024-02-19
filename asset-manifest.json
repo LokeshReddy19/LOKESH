@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "/LOKESH/static/css/main.941b119d.css",
-    "main.js": "/LOKESH/static/js/main.cc3d772e.js",
-    "static/js/592.167abb64.chunk.js": "/LOKESH/static/js/592.167abb64.chunk.js",
+    "main.css": "/LOKESH/static/css/main.c06fd438.css",
+    "main.js": "/LOKESH/static/js/main.4df22616.js",
     "index.html": "/LOKESH/index.html",
-    "main.941b119d.css.map": "/LOKESH/static/css/main.941b119d.css.map",
-    "main.cc3d772e.js.map": "/LOKESH/static/js/main.cc3d772e.js.map",
-    "592.167abb64.chunk.js.map": "/LOKESH/static/js/592.167abb64.chunk.js.map"
+    "main.c06fd438.css.map": "/LOKESH/static/css/main.c06fd438.css.map",
+    "main.4df22616.js.map": "/LOKESH/static/js/main.4df22616.js.map"
   },
   "entrypoints": [
-    "static/css/main.941b119d.css",
-    "static/js/main.cc3d772e.js"
+    "static/css/main.c06fd438.css",
+    "static/js/main.4df22616.js"
   ]
 }
